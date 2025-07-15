@@ -1,4 +1,4 @@
-# 🆘 Disaster Tweet Classification
+# 🌪️ Disaster Tweet Classification
 
 This NLP project focuses on classifying whether a tweet is about a real disaster or not. It was based on a Kaggle competition with over 7,500 labeled tweets and involved building a full text classification pipeline — from preprocessing raw text and engineering features to model training and evaluation.
 
